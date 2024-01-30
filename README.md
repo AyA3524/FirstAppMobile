@@ -1,2 +1,2 @@
 # FirstAppMobile
-first app mobile__JAVA
+first app mobile__Scan code QR
